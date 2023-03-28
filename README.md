@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HosneMobarak262.
 - 👀 I’m working in a Laravel Web developement project.
-- 🌱 I’m currently learning Docker & Jenkins.
+- 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on a Project.
 - 📫 How to reach me "hosne.1504@gmail.com".
